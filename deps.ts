@@ -13,7 +13,7 @@ export {
 } from "https://deno.land/x/mysql@v2.11.0/mod.ts";
 export type { LoggerConfig } from "https://deno.land/x/mysql@v2.11.0/mod.ts";
 
-export { Client as PostgresClient } from "https://deno.land/x/postgres@v0.14.2/mod.ts";
+export { Client as PostgresClient } from "https://deno.land/x/postgres@v0.17.0/mod.ts";
 
 export { DB as SQLiteClient } from "https://deno.land/x/sqlite@v3.1.3/mod.ts";
 
